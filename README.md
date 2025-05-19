@@ -9,7 +9,7 @@ Once you load up the game, you'll start in the main menu; Here is what you can d
 1. FUNCTIONALITY OF MY GAME:
 Pressing the " Play " Button starts a Challenge run.
 
-[The Challenge]
+The Challenge
 Face off against 5 Waves of AI-controlled enemies including:
 
     🧙‍♂️ 3 Evil Mages that drain your score if left alive
@@ -20,7 +20,7 @@ Face off against 5 Waves of AI-controlled enemies including:
     
 Your goal: defeat as many enemies as you can before time runs out.
 
-[🔄 Elemental Matchups]
+🔄 Elemental Matchups
 Some enemies have elemental protection — they can only be defeated using the correct type of spell:
 
     🔥 Fire
@@ -31,7 +31,7 @@ Some enemies have elemental protection — they can only be defeated using the c
     
 Press " Z " to enter symbol-drawing mode and switch your current element. Matching the enemy’s weakness is essential to winning.
 
-[🧠 Arcane Mage State]
+🧠 Arcane Mage State
 
 ![Arcane Mage Image](https://i.imgur.com/a/zPs5eQU.png)
 
@@ -45,13 +45,13 @@ switching elements activates the Arcane Mage state:
     
 This high-risk, high-reward mode rewards aggressive play — but manage your mana wisely.
 
-[🧨 Strategic Threats]
+🧨 Strategic Threats
 
     When Monster Mages are active on the field, your score rapidly decays over time.
     
     Take them out quickly to stop the loss and restore control.
 
-[🕹️ Controls]
+🕹️ Controls
 
     Mouse: Aim your spells
     
@@ -63,7 +63,7 @@ This high-risk, high-reward mode rewards aggressive play — but manage your man
     
     T: End the Challenge early and return to the main menu 
 
-[📈 Scoring]
+📈 Scoring
 
     Defeat enemies to increase your score
 
@@ -75,17 +75,17 @@ This high-risk, high-reward mode rewards aggressive play — but manage your man
     
 2. OTHER MAIN MENU BUTTONS, Press " Esc " to go back from any of these menus
    
-[💯Score]
+💯Score
 
     See your last 10 records from the past.
    
-[⚙️ Settings]
+⚙️ Settings
 
     Here you can change the senzitivity of your mouse and increase the difficulty of the challenge
     
     Difficulty: The time to complete the challenge is decreased, the score necessary to reach the next wave is increased. 
     
-[ℹ️ Tutorial/Information]
+ℹ️ Tutorial/Information
 
       Here you will get to learn the Symbols necessary to change your elemental afinity.
 
