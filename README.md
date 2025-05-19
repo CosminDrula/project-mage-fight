@@ -21,6 +21,7 @@ Face off against 5 Waves of AI-controlled enemies including:
 Your goal: defeat as many enemies as you can before time runs out.
 
 🔄 Elemental Matchups
+
 Some enemies have elemental protection — they can only be defeated using the correct type of spell:
 
     🔥 Fire
