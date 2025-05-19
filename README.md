@@ -92,7 +92,7 @@ This high-risk, high-reward mode rewards aggressive play — but manage your man
 
 ![Magic Symbols M, G, S](https://imgur.com/TGU8spa.jpeg)
 
-      Here you will get to learn the Symbols necessary to change your elemental afinity.
+      Here you will get to learn the Symbols necessary to change your elemental affinity.
 
 3. SHORTCOMINGS/DISFUNCTIONAL TRAITS OF MY PROJECT:
 
