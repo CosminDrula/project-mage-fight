@@ -80,4 +80,4 @@ This high-risk, high-reward mode rewards aggressive play — but manage your man
     
 [ℹ️ Tutorial/Information]
 
-  Here you will get to learn the Symbols necessary to change your elemental afinity.
+      Here you will get to learn the Symbols necessary to change your elemental afinity.
