@@ -90,5 +90,7 @@ This high-risk, high-reward mode rewards aggressive play — but manage your man
 3. SHORTCOMINGS/DISFUNCTIONAL TRAITS OF MY PROJECT:
 
        Unoptimized Update() function calls, the game visibly slows down if the number of moving enemies is > 20.
+   
        Lack of enemy variety and mediocre visual effects.
+   
        The "Arcane Mage state" had more gameplay significance that is now cut from the final game due to project complexity.
