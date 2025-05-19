@@ -1,6 +1,6 @@
 [DISCLAIMER] 
 
-        This is a project made for the Algorithm Design Course at FACE (https://ace.ucv.ro/)
+        This is a project made for the Algorithm Design Course at [FACE](https://ace.ucv.ro/)
             
 Mage Fighter is a fast-paced, magical score-attack game where you have 4 minutes to defeat as many enemies as possible and earn the highest score.
 
@@ -32,7 +32,7 @@ Some enemies have elemental protection — they can only be defeated using the c
 Press " Z " to enter symbol-drawing mode and switch your current element. Matching the enemy’s weakness is essential to winning.
 
 [🧠 Arcane Mage State]
-
+[Normal Mage and his Arcane Mage form, scary! ](https://imgur.com/a/zP5eQU)
 switching elements activates the Arcane Mage state:
 
     You begin chanting, enhancing your power.
