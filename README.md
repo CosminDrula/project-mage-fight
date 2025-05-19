@@ -1,8 +1,13 @@
+[DISCLAIMER] 
+
+        This is a project made for the Algorithm Design Course at FACE (https://ace.ucv.ro/)
+            
 Mage Fighter is a fast-paced, magical score-attack game where you have 4 minutes to defeat as many enemies as possible and earn the highest score.
 
 Once you load up the game, you'll start in the main menu; Here is what you can do: 
 
-1.PRESS THE PLAY BUTTON
+1. FUNCTIONALITY OF MY GAME:
+Pressing the " Play " Button starts a Challenge run.
 
 [The Challenge]
 Face off against 5 Waves of AI-controlled enemies including:
@@ -81,3 +86,9 @@ This high-risk, high-reward mode rewards aggressive play — but manage your man
 [ℹ️ Tutorial/Information]
 
       Here you will get to learn the Symbols necessary to change your elemental afinity.
+
+3. SHORTCOMINGS/DISFUNCTIONAL TRAITS OF MY PROJECT:
+
+       Unoptimized Update() function calls, the game visibly slows down if the number of moving enemies is > 20.
+       Lack of enemy variety and mediocre visual effects.
+       The "Arcane Mage state" had more gameplay significance that is now cut from the final game due to project complexity.
