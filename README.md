@@ -34,7 +34,7 @@ Press " Z " to enter symbol-drawing mode and switch your current element. Matchi
 
 🧠 Arcane Mage State
 
-![https://i.imgur.com/a/zPs5eQU.png](https://imgur.com/3HXwJnl.png)
+![Arcane Mage State](https://imgur.com/3HXwJnl.png)
 
 switching elements activates the Arcane Mage state:
 
@@ -87,6 +87,8 @@ This high-risk, high-reward mode rewards aggressive play — but manage your man
     Difficulty: The time to complete the challenge is decreased, the score necessary to reach the next wave is increased. 
     
 ℹ️ Tutorial/Information
+
+![Magic Symbols M, G, S](https://imgur.com/TGU8spa.jpeg)
 
       Here you will get to learn the Symbols necessary to change your elemental afinity.
 
