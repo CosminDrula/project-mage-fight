@@ -33,7 +33,7 @@ Press " Z " to enter symbol-drawing mode and switch your current element. Matchi
 
 [🧠 Arcane Mage State]
 
-!(Arcane Mage Image)[https://imgur.com/a/zPs5eQU.png]
+![Arcane Mage Image](https://imgur.com/a/zPs5eQU.png)
 
 switching elements activates the Arcane Mage state:
 
