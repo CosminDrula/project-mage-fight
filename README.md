@@ -1,7 +1,9 @@
-
 Mage Fighter is a fast-paced, magical score-attack game where you have 4 minutes to defeat as many enemies as possible and earn the highest score.
+
 Once you load up the game, you'll start in the main menu; Here is what you can do: 
+
 1.PRESS THE PLAY BUTTON
+
 [The Challenge]
 Face off against 5 Waves of AI-controlled enemies including:
     🧙‍♂️ 3 Evil Mages that drain your score if left alive
